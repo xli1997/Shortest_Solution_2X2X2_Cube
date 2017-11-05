@@ -1,0 +1,2 @@
+# Shortest_Solution_2X2X2_Cube
+God number is 20 for a 3X3X3 cube. http://www.cube20.org/ God number is 14 for a 2X2X2 cube. in another word, any starting position can be solved in 14-turns. For a 2X2X2 cube, the shortest path to solve the cube from any starting position is: 1. the starting position is coded into a number; 2. an exhaustive search of 7-turns hash table from both starting position and end position must find the solution (the number meets each other).
